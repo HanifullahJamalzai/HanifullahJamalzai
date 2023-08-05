@@ -1,4 +1,4 @@
-# Hi, I'm Hanifullah Jamalzai 👋
+# Salaam Alaykom, I'm Hanifullah Jamalzai 👋
 
 Passionate about coding and technology, I'm an Afghan web application developer with over 3 years of hands-on experience. My journey in the world of development has been nothing short of exhilarating, allowing me to bring innovative ideas to life.
 
