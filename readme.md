@@ -33,6 +33,6 @@ I approach every project with unwavering dedication, aiming to provide the best 
 
 ## 📫 Let's Connect
 
-I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/hanifullahjamalzai) or [Twitter](https://twitter.com/hanifullahjamal).
+I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/hanifullahjamalzai) , [Twitter](https://twitter.com/hanifullahjamal) or [WhatsApp](https://wa.me/+93779636360) .
 
 Let's create something amazing together! 🚀
