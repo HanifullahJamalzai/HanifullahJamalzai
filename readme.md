@@ -27,6 +27,10 @@ With a knack for problem-solving, I have actively participated in debugging sess
 
 The tech landscape is ever-evolving, and I thrive on staying up-to-date with the latest trends and methodologies. I am committed to lifelong learning and am currently exploring Remix.run, GraphQL, Docker, and NativePHP to further enhance my skill set.
 
+## 🌟 Dedication & Honesty:
+
+I approach every project with unwavering dedication, aiming to provide the best possible outcomes. My commitment to honesty and transparency is the foundation of my work, ensuring trust and integrity in every task.
+
 ## 📫 Let's Connect
 
 I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/hanifullahjamalzai) or [Twitter](https://twitter.com/hanifullahjamal).
