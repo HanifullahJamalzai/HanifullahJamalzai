@@ -1,19 +1,20 @@
 # Salaam Alaykom, I'm Hanifullah Jamalzai 👋
 
-Passionate about coding and technology, I'm an Afghan web application developer with over 3 years of hands-on experience. My journey in the world of development has been nothing short of exhilarating, allowing me to bring innovative ideas to life.
+Passionate about coding and technology, I'm an Afghan web application developer with over 4+ years of hands-on experience. My journey in the world of development has been nothing short of exhilarating, allowing me to bring innovative ideas to life.
 
 ## 🔧 Technologies & Tools
 
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: PHP, Laravel
+- Backend: PHP, Laravel, Codeigniter, Java, Spring boot
 - APIs: RESTful, GraphQL
-- Database: MySQL
+- Database: MySQL, Postgres, Mongodb
 - Version Control: Git
 - Tools: VS Code, GitHub
+- Deployment: Apache, Nginx, Docker
 
 ## 💼 Professional Experience
 
-In my 3+ years in the industry, I've had the privilege to work on a diverse range of projects, from crafting interactive user interfaces to architecting robust backend systems. My strengths lie in building efficient and scalable web applications that drive real-world impact.
+In my 4+ years in the industry, I've had the privilege to work on a diverse range of projects, from crafting interactive user interfaces to architecting robust backend systems. My strengths lie in building efficient and scalable web applications that drive real-world impact.
 
 ## 📚 Teaching & Mentoring
 
